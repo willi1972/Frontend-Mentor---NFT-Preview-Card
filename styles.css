@@ -153,6 +153,11 @@ a {
 .card-author-name a:hover {
   color: var(--Cyan);
 }
+
+footer {
+  position: fixed;
+  bottom: 0;
+}
 .card .attribution {
   font-size: 11px;
   text-align: center;
